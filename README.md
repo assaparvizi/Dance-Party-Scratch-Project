@@ -1,2 +1,2 @@
 # Dance-Party-Scratch-Project
-Sprites dancing competition
+https://scratch.mit.edu/projects/320336509/
